@@ -28,13 +28,13 @@
   <li>Open your windows powershell or command prompt or Terminal and change directory to the folder where all the files of repository are present.</li>
   <li><b>For detecting age and gender from the image : </li>
   
-      python detect.py --image image_name
+      python test.py --image image_name
 </ul>
   <p><b>Note: </b>The Image should be present in same folder where all the files are present</p> 
 <ul>
   <li><b>For detectig age and gender in the live video through webcam :</li>
   
-      python detect.py
+      python test.py
 </ul>
 <ul>
   <li>Press <b>Ctrl + C or q</b> to stop the program execution.</li>
